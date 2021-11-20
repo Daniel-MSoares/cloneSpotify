@@ -1,7 +1,3 @@
-body{
-	scroll-behavior: smooth;
-	overflow-x: hidden;
-}
 html,body,#home{
 	height: 100%;
 }
@@ -98,7 +94,7 @@ nav.navbar-transparente{
 	-ms-transform: rotate(30deg);
 	-webkit-transform: rotate(30deg);
 	transform: rotate(30deg);
-	padding-left: 70px;
+	padding-left: 50px;
 }
 
 .carousel-control-next, .carousel-control-prev{
@@ -159,16 +155,6 @@ footer ul li{
  }
 
  	
-
-
-
-
-
-
-
-
-
-
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
      .btn-custon{
