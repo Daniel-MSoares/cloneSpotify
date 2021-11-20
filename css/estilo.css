@@ -1,6 +1,6 @@
 body{
 	scroll-behavior: smooth;
-	overflow-y: hidden;
+	overflow-x: hidden;
 }
 html,body,#home{
 	height: 100%;
