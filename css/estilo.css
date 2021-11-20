@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 body{
 	overflow-x: hidden; 
 }
+=======
+>>>>>>> d6276f9c90b81d1055335708908e828a667101a7
 html,body,#home{
 	height: 100%;
 }
@@ -97,7 +100,7 @@ nav.navbar-transparente{
 	-ms-transform: rotate(30deg);
 	-webkit-transform: rotate(30deg);
 	transform: rotate(30deg);
-	padding-left: 80px;
+	padding-left: 50px;
 }
 
 .carousel-control-next, .carousel-control-prev{
@@ -158,16 +161,6 @@ footer ul li{
  }
 
  	
-
-
-
-
-
-
-
-
-
-
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
      .btn-custon{
